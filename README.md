@@ -10,7 +10,6 @@ A simple implementation of the classic Tic-Tac-Toe game using Java Swing.
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [License](#license)
-7. [Contact](#contact)
 
 ### Introduction
 
@@ -33,7 +32,7 @@ To run this Tic-Tac-Toe game, follow these steps:
 2. **Clone the Repository**: Clone this repository or download the source code.
 
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/arshadpatel/tic-tac-toe
 3. **Navigate to the Directory**: Go to the project directory.
 
    ```sh
