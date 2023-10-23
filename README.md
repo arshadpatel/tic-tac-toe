@@ -23,6 +23,26 @@ This Java application allows you to play the classic Tic-Tac-Toe game against a 
 - Option to start a new game.
 - Responsive design for different screen sizes.
 
+### Screenshots
+![001](Images/001.png)
+<br>
+<br>
+![002](Images/002.png)
+<br>
+<br>
+![003](Images/003.png)
+<br>
+<br>
+![004](Images/004.png)
+<br>
+<br>
+![005](Images/005.png)
+<br>
+<br>
+![006](Images/006.png)
+<br>
+<br>
+
 ### Installation
 
 To run this Tic-Tac-Toe game, follow these steps:
